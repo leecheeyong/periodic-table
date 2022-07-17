@@ -7,6 +7,7 @@ I made this game during my science revision, this is basically what I do when I 
 - Made with pure javascript, css, html
 - Fast, Quick, Easy to play
 - Can be edited and be used for other purposes
+- User friendly, well optimized for desktop, mobile and tablet view
 
 # Credit
 Please credit me ([@leecheeyong](https://github.com/leecheeyong)) as well as having a link to this repository !
