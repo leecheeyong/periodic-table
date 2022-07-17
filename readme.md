@@ -1,5 +1,5 @@
 # Periodic Table Game
-I made this game during my science revision, this is basically what I do when I say revising science !
+In-short, this is actually a quiz game. I made this game during my science revision, this is basically what I do when I say revising science !
 
 # About
 - This game is mainly used by myself
@@ -8,6 +8,11 @@ I made this game during my science revision, this is basically what I do when I 
 - Fast, Quick, Easy to play
 - Can be edited and be used for other purposes
 - User friendly, well optimized for desktop, mobile and tablet view
+
+# How to play
+1. Click on the input box
+2. Enter the answer
+3. Click/hit enter
 
 # Credit
 Please credit me ([@leecheeyong](https://github.com/leecheeyong)) as well as having a link to this repository !
