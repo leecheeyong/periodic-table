@@ -6,7 +6,7 @@ In-short, this is actually a quiz game. I made this game during my science revis
 - There are 20 elements with their symbols and names
 - Made with pure javascript, css, html
 - Fast, Quick, Easy to play
-- Can be edited and be used for other purposes
+- Can be edited and used for other purposes
 - User friendly, well optimized for desktop, mobile and tablet view
 
 # How to play
