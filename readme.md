@@ -15,6 +15,6 @@ Please credit me ([@leecheeyong](https://github.com/leecheeyong)) as well as hav
 Please fork and give this repository a star !
 
 # Preview
-<img width="837" alt="image" src="https://user-images.githubusercontent.com/81070048/179402694-f212f6f7-68f1-4631-bcbb-a3d4d7db7778.png">
-<img width="586" alt="image" src="https://user-images.githubusercontent.com/81070048/179402715-ecd3a40f-5436-48a5-9b7f-ebf417c54ae6.png">
-<img width="552" alt="image" src="https://user-images.githubusercontent.com/81070048/179402720-b6937212-0924-4d29-9537-7c9eada45308.png">
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/81070048/179402694-f212f6f7-68f1-4631-bcbb-a3d4d7db7778.png">
+<img width="293" alt="image" src="https://user-images.githubusercontent.com/81070048/179402715-ecd3a40f-5436-48a5-9b7f-ebf417c54ae6.png">
+<img width="276" alt="image" src="https://user-images.githubusercontent.com/81070048/179402720-b6937212-0924-4d29-9537-7c9eada45308.png">
