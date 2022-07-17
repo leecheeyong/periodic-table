@@ -1,0 +1,20 @@
+# Periodic Table Game
+I made this game during my science revision, this is basically what I do when I say revising science !
+
+# About
+- This game is mainly used by myself
+- There are 20 elements with their symbols and name
+- Made with pure javascript, css, html
+- Fast, Quick, Easy to play
+- Can be edited and be used for other purposes
+
+# Credit
+Please credit me ([@leecheeyong](https://github.com/leecheeyong)) as well as having a link to this repository !
+
+# Support
+Please fork and give this repository a star !
+
+# Preview
+<img width="837" alt="image" src="https://user-images.githubusercontent.com/81070048/179402694-f212f6f7-68f1-4631-bcbb-a3d4d7db7778.png">
+<img width="586" alt="image" src="https://user-images.githubusercontent.com/81070048/179402715-ecd3a40f-5436-48a5-9b7f-ebf417c54ae6.png">
+<img width="552" alt="image" src="https://user-images.githubusercontent.com/81070048/179402720-b6937212-0924-4d29-9537-7c9eada45308.png">
