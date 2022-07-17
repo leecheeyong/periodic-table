@@ -1,6 +1,8 @@
 # Periodic Table Game
 In-short, this is actually a quiz game. I made this game during my science revision, this is basically what I do when I say revising science !
 
+[**Play Demo**](https://leecheeyong.github.io/periodic-table)
+
 # About
 - This game is mainly used by myself
 - There are 20 elements with their symbols and names
