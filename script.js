@@ -54,7 +54,7 @@ if(randomItem == 1){
     const h1 = document.createElement('h1');
     h1.textContent = `${table[randomElement][randomItem]}`;
     const p = document.createElement('p');
-    p.textContent = `${randomElement}`;
+    p.textContent = `${randomElement+1}`;
     const input = document.createElement('input');
     input.id = "chinese";
     input.maxLength = 1;
@@ -77,7 +77,7 @@ if(randomItem == 1){
     const h2 = document.createElement('h2');
     h2.textContent = `${table[randomElement][randomItem]}`;
     const p = document.createElement('p');
-    p.textContent = `${randomElement}`;
+    p.textContent = `${randomElement+1}`;
     input.id = 'name';
     container.appendChild(input);
     container.appendChild(p);
