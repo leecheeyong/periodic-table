@@ -1,5 +1,5 @@
 # Periodic Table Game
-In-short, this is actually a quiz game. I made this game during my science revision, this is basically what I do when I'm revising science !
+In-short, this is actually a quiz game. I made this game during my science revision.
 
 [**Play Demo**](https://leecheeyong.github.io/periodic-table)
 
