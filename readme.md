@@ -15,10 +15,7 @@ In-short, this is actually a quiz game. I made this game during my science revis
 1. Click on the input box
 2. Enter the answer
 3. Click/hit enter
-
-# Credit
-Please credit me ([@leecheeyong](https://github.com/leecheeyong)) as well as having a link to this repository !
-
+   
 # Support
 Please fork and give this repository a star !
 
